@@ -1,0 +1,86 @@
+[
+  {
+    "word": "diaphane",
+    "lang": "fr",
+    "pos": "adj.",
+    "definition": "Qui laisse passer la lumière sans laisser distinguer nettement les formes ; par extension, d'une pâleur délicate.",
+    "examples": [
+      "Un rideau *diaphane* tamisait la lumière du matin.",
+      "La malade avait le teint *diaphane* et les mains glacées."
+    ],
+    "register": "soutenu",
+    "translation": "translucide ; très pâle"
+  },
+  {
+    "word": "sycophante",
+    "lang": "fr",
+    "pos": "nom m.",
+    "definition": "Dans l'Athènes antique, dénonciateur professionnel ; par extension, délateur, calomniateur.",
+    "examples": [
+      "Il soupçonnait chaque collègue d'être un *sycophante* à la solde du directeur.",
+      "Sous l'Occupation, les *sycophantes* inondaient la police de lettres anonymes."
+    ],
+    "register": "soutenu",
+    "translation": "délateur, mouchard"
+  },
+  {
+    "word": "palimpseste",
+    "lang": "fr",
+    "pos": "nom m.",
+    "definition": "Parchemin dont on a gratté le premier texte pour en écrire un nouveau ; au figuré, œuvre ou lieu où affleurent des couches plus anciennes.",
+    "examples": [
+      "Sous la prière médiévale, le *palimpseste* cachait un traité d'Archimède.",
+      "La ville est un *palimpseste* où chaque siècle a écrit par-dessus le précédent."
+    ],
+    "register": "soutenu",
+    "translation": "manuscrit réécrit ; superposition de couches"
+  },
+  {
+    "word": "anamnèse",
+    "lang": "fr",
+    "pos": "nom f.",
+    "definition": "Ensemble des renseignements que le patient fournit sur son passé et sur l'histoire de sa maladie ; plus largement, remontée du souvenir.",
+    "examples": [
+      "Le médecin commence toujours par une *anamnèse* détaillée avant d'examiner le patient.",
+      "Le roman est une longue *anamnèse* de l'enfance du narrateur."
+    ],
+    "register": "soutenu",
+    "translation": "historique médical ; réminiscence"
+  },
+  {
+    "word": "coruscant",
+    "lang": "fr",
+    "pos": "adj.",
+    "definition": "Qui brille d'un éclat vif, qui étincelle.",
+    "examples": [
+      "La mer, *coruscante* sous le soleil de midi, obligeait à plisser les yeux.",
+      "Il écrit dans un style *coruscant*, chargé d'images et de mots rares."
+    ],
+    "register": "soutenu",
+    "translation": "étincelant, brillant"
+  },
+  {
+    "word": "zinzolin",
+    "lang": "fr",
+    "pos": "adj. et nom m.",
+    "definition": "D'une couleur violet rougeâtre.",
+    "examples": [
+      "Elle portait une écharpe de soie *zinzolin*.",
+      "Au couchant, le ciel vira du rose au *zinzolin*."
+    ],
+    "register": "soutenu",
+    "translation": "violet rougeâtre"
+  },
+  {
+    "word": "nyctalope",
+    "lang": "fr",
+    "pos": "adj. et nom",
+    "definition": "Qui voit bien dans l'obscurité.",
+    "examples": [
+      "Le chat, *nyctalope*, se faufile sans peine dans le grenier obscur.",
+      "Il faudrait être *nyctalope* pour lire ce menu à la lueur d'une bougie."
+    ],
+    "register": "courant",
+    "translation": "qui voit dans le noir"
+  }
+]

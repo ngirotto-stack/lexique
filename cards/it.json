@@ -1,0 +1,122 @@
+[
+  {
+    "word": "solipsismo",
+    "lang": "it",
+    "pos": "nome m.",
+    "definition": "Dottrina filosofica secondo cui esiste con certezza solo il proprio io; per estensione, individualismo estremo, chiusura in sé stessi.",
+    "examples": [
+      "Il suo *solipsismo* gli impedisce di ascoltare chiunque non la pensi come lui.",
+      "Il romanzo racconta il *solipsismo* di un uomo che vive soltanto dei propri pensieri."
+    ],
+    "register": "soutenu",
+    "translation": "solipsisme"
+  },
+  {
+    "word": "bieco",
+    "lang": "it",
+    "pos": "agg.",
+    "definition": "Detto di sguardo, torvo e minaccioso; per estensione, malvagio, sinistro.",
+    "examples": [
+      "Mi lanciò uno sguardo *bieco* e uscì senza salutare.",
+      "Dietro quell'offerta generosa si nascondevano *biechi* interessi."
+    ],
+    "register": "soutenu",
+    "translation": "torve, menaçant ; sinistre, vil"
+  },
+  {
+    "word": "sornione",
+    "lang": "it",
+    "pos": "agg.",
+    "definition": "Che nasconde furbizia o ironia dietro un'apparenza tranquilla e bonaria.",
+    "examples": [
+      "Il gatto ci osservava con aria *sorniona* dal davanzale.",
+      "Rispose con un sorriso *sornione*, come chi sa più di quanto dice."
+    ],
+    "register": "courant",
+    "translation": "matois, faussement placide, pince-sans-rire"
+  },
+  {
+    "word": "fulgido",
+    "lang": "it",
+    "pos": "agg.",
+    "definition": "Che risplende di luce viva; in senso figurato, splendido, luminoso.",
+    "examples": [
+      "Nel cielo terso brillava una stella *fulgida*.",
+      "È considerata un *fulgido* esempio di coraggio civile."
+    ],
+    "register": "soutenu",
+    "translation": "éclatant, resplendissant"
+  },
+  {
+    "word": "pedissequo",
+    "lang": "it",
+    "pos": "agg.",
+    "definition": "Che segue o imita passivamente, senza alcuna originalità.",
+    "examples": [
+      "Il film è una *pedissequa* imitazione dei classici americani.",
+      "Non serve un'applicazione *pedissequa* del regolamento, ma un po' di buon senso."
+    ],
+    "register": "soutenu",
+    "translation": "servile, sans originalité, à la lettre"
+  },
+  {
+    "word": "acribia",
+    "lang": "it",
+    "pos": "nome f.",
+    "definition": "Precisione scrupolosa e rigorosa, specialmente nel lavoro di studio e di ricerca.",
+    "examples": [
+      "Ha ricostruito la vicenda con l'*acribia* di un filologo.",
+      "Controlla ogni citazione con grande *acribia*."
+    ],
+    "register": "soutenu",
+    "translation": "acribie, rigueur minutieuse"
+  },
+  {
+    "word": "sgargiante",
+    "lang": "it",
+    "pos": "agg.",
+    "definition": "Di colore molto vivace e vistoso, che attira subito l'occhio.",
+    "examples": [
+      "Si è presentato al matrimonio con una cravatta *sgargiante*.",
+      "Le case del porto sono dipinte con colori *sgargianti*."
+    ],
+    "register": "courant",
+    "translation": "voyant, criard, éclatant"
+  },
+  {
+    "word": "ozioso",
+    "lang": "it",
+    "pos": "agg.",
+    "definition": "Che sta senza far nulla; detto di parole o domande, inutile, vano.",
+    "examples": [
+      "Ha passato un pomeriggio *ozioso* sul divano.",
+      "È una domanda *oziosa*: la decisione è già stata presa."
+    ],
+    "register": "courant",
+    "translation": "oisif, désœuvré ; oiseux"
+  },
+  {
+    "word": "mellifluo",
+    "lang": "it",
+    "pos": "agg.",
+    "definition": "Dolce e carezzevole in modo affettato, spesso insincero.",
+    "examples": [
+      "Mi ha accolto con un tono *mellifluo* che non prometteva niente di buono.",
+      "Con parole *melliflue* cercava di convincerla a firmare."
+    ],
+    "register": "soutenu",
+    "translation": "mielleux, doucereux"
+  },
+  {
+    "word": "cavilloso",
+    "lang": "it",
+    "pos": "agg.",
+    "definition": "Che ricorre a sottigliezze e pretesti per discutere o contestare ogni cosa.",
+    "examples": [
+      "È un avvocato *cavilloso*, capace di contestare ogni virgola.",
+      "Smettila di essere così *cavilloso*: abbiamo capito cosa intendevi."
+    ],
+    "register": "courant",
+    "translation": "chicaneur, ergoteur, pointilleux"
+  }
+]

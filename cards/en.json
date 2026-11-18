@@ -1,0 +1,1334 @@
+[
+  {
+    "word": "perfunctory",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Done quickly and without real interest or care, only because it is expected.",
+    "examples": [
+      "The guard gave my bag a *perfunctory* glance and waved me through.",
+      "His apology was so *perfunctory* that it made things worse."
+    ],
+    "register": "soutenu",
+    "translation": "fait pour la forme, expédié, machinal"
+  },
+  {
+    "word": "garrulous",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Talking a lot, especially about unimportant things.",
+    "examples": [
+      "My *garrulous* neighbour kept me on the doorstep for half an hour.",
+      "He becomes *garrulous* after a glass or two of wine."
+    ],
+    "register": "soutenu",
+    "translation": "bavard, volubile, loquace"
+  },
+  {
+    "word": "feckless",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Lacking the energy, competence or sense of responsibility to achieve anything.",
+    "examples": [
+      "Her *feckless* brother has never held a job for more than a month.",
+      "The papers blamed a *feckless* government for the delays."
+    ],
+    "register": "courant",
+    "translation": "incapable, irresponsable, bon à rien"
+  },
+  {
+    "word": "gormless",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Stupid or slow to understand; looking vacant (British).",
+    "examples": [
+      "Don't just stand there looking *gormless* — give me a hand!",
+      "He gave me a *gormless* grin and carried on eating."
+    ],
+    "register": "familier",
+    "translation": "empoté, benêt, ahuri"
+  },
+  {
+    "word": "flummoxed",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Completely confused and unable to know what to do or say.",
+    "examples": [
+      "I was totally *flummoxed* by the last question in the interview.",
+      "Even the engineers looked *flummoxed* when the screen went blank."
+    ],
+    "register": "familier",
+    "translation": "déconcerté, désarçonné, dérouté"
+  },
+  {
+    "word": "wistful",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Feeling or showing a gentle sadness, especially a longing for something past or out of reach.",
+    "examples": [
+      "She gave a *wistful* smile as the train pulled out.",
+      "He grew *wistful* whenever anyone mentioned his student days in Rome."
+    ],
+    "register": "courant",
+    "translation": "mélancolique, nostalgique, songeur"
+  },
+  {
+    "word": "sullen",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Silently bad-tempered and resentful; refusing to be pleasant.",
+    "examples": [
+      "The teenager sat in *sullen* silence throughout dinner.",
+      "She answered with a *sullen* shrug."
+    ],
+    "register": "courant",
+    "translation": "maussade, renfrogné, boudeur"
+  },
+  {
+    "word": "dreary",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Dull, bleak and depressing.",
+    "examples": [
+      "It was a *dreary* November afternoon, grey and wet.",
+      "He was stuck in a *dreary* job filling in forms all day."
+    ],
+    "register": "courant",
+    "translation": "morne, lugubre, monotone"
+  },
+  {
+    "word": "haggard",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Looking exhausted and unwell, especially from worry, lack of sleep or suffering.",
+    "examples": [
+      "He came out of the meeting pale and *haggard*.",
+      "After three nights at the hospital her face was *haggard* with worry."
+    ],
+    "register": "courant",
+    "translation": "hâve, défait, aux traits tirés"
+  },
+  {
+    "word": "brittle",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Hard but easily broken or cracked; figuratively, fragile, or sharp and lacking warmth.",
+    "examples": [
+      "Old paper becomes yellow and *brittle*.",
+      "She gave a *brittle* laugh that fooled nobody."
+    ],
+    "register": "courant",
+    "translation": "cassant, friable ; fragile"
+  },
+  {
+    "word": "shrewd",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Having or showing sharp practical judgement, especially in business or about people.",
+    "examples": [
+      "She is a *shrewd* judge of character.",
+      "Selling the house before the crash turned out to be a *shrewd* move."
+    ],
+    "register": "courant",
+    "translation": "perspicace, astucieux, avisé"
+  },
+  {
+    "word": "churlish",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Rude, unfriendly and ungracious.",
+    "examples": [
+      "It would be *churlish* to refuse such a generous offer.",
+      "He gave a *churlish* grunt instead of saying thank you."
+    ],
+    "register": "courant",
+    "translation": "grossier, malgracieux, rustre"
+  },
+  {
+    "word": "dwindle",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To become gradually smaller, fewer or weaker.",
+    "examples": [
+      "Our savings had *dwindled* to almost nothing by the spring.",
+      "The crowd slowly *dwindled* as the rain got heavier."
+    ],
+    "register": "courant",
+    "translation": "diminuer, s'amenuiser, fondre"
+  },
+  {
+    "word": "wily",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Clever at getting what you want, especially by tricks.",
+    "examples": [
+      "The *wily* old politician outmanoeuvred all his rivals.",
+      "She was too *wily* to fall for such an obvious trap."
+    ],
+    "register": "courant",
+    "translation": "rusé, malin, roublard"
+  },
+  {
+    "word": "loiter",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To stand or wait around somewhere without any obvious purpose.",
+    "examples": [
+      "A group of teenagers were *loitering* outside the station.",
+      "Don't *loiter* on the way home from school."
+    ],
+    "register": "courant",
+    "translation": "traîner, rôder"
+  },
+  {
+    "word": "uncouth",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Lacking good manners; rough and awkward in behaviour or speech.",
+    "examples": [
+      "His *uncouth* table manners embarrassed the whole family.",
+      "She found the new neighbours loud and *uncouth*."
+    ],
+    "register": "courant",
+    "translation": "fruste, grossier, mal dégrossi"
+  },
+  {
+    "word": "lurk",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To wait or stay hidden, especially in order to do something bad; (of danger or doubt) to exist unseen.",
+    "examples": [
+      "Someone was *lurking* in the shadows by the garage.",
+      "Doubt still *lurked* at the back of her mind."
+    ],
+    "register": "courant",
+    "translation": "se tapir, rôder, être à l'affût"
+  },
+  {
+    "word": "unkempt",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Untidy and not cared for, especially of hair or appearance.",
+    "examples": [
+      "He turned up unshaven, with *unkempt* hair and a creased shirt.",
+      "The garden had grown wild and *unkempt* since the old man died."
+    ],
+    "register": "courant",
+    "translation": "négligé, hirsute, mal entretenu"
+  },
+  {
+    "word": "slovenly",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Careless, untidy or dirty in appearance or habits.",
+    "examples": [
+      "The landlord complained about the tenants' *slovenly* habits.",
+      "It was a *slovenly* piece of work, full of spelling mistakes."
+    ],
+    "register": "courant",
+    "translation": "négligé, débraillé ; bâclé"
+  },
+  {
+    "word": "skulk",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To hide or move about secretly, out of cowardice or with bad intent.",
+    "examples": [
+      "A fox was *skulking* behind the bins.",
+      "He *skulked* off to his room to avoid the washing-up."
+    ],
+    "register": "courant",
+    "translation": "rôder furtivement, se cacher, se défiler"
+  },
+  {
+    "word": "slipshod",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Done carelessly, without attention to detail.",
+    "examples": [
+      "The report was rejected because of its *slipshod* research.",
+      "I won't pay for such *slipshod* workmanship."
+    ],
+    "register": "courant",
+    "translation": "bâclé, négligé, fait sans soin"
+  },
+  {
+    "word": "sidle",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To walk in a quiet, cautious or furtive way, especially sideways.",
+    "examples": [
+      "A man *sidled* up to me and asked if I wanted to buy a watch.",
+      "She *sidled* past the sleeping guard."
+    ],
+    "register": "courant",
+    "translation": "se glisser, s'approcher furtivement"
+  },
+  {
+    "word": "shifty",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Looking dishonest or evasive, as if hiding something.",
+    "examples": [
+      "A *shifty* man in a long coat was hanging about outside the bank.",
+      "He went all *shifty* when I asked where the money had gone."
+    ],
+    "register": "familier",
+    "translation": "louche, sournois, fuyant"
+  },
+  {
+    "word": "listless",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Having no energy or enthusiasm.",
+    "examples": [
+      "The heat left everyone *listless* and irritable.",
+      "She picked at her food in a *listless* way and went to bed early."
+    ],
+    "register": "courant",
+    "translation": "apathique, amorphe, sans ressort"
+  },
+  {
+    "word": "waver",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To become unsteady or weaker; to hesitate between choices.",
+    "examples": [
+      "His voice *wavered* as he read the letter aloud.",
+      "She never *wavered* in her support for him."
+    ],
+    "register": "courant",
+    "translation": "vaciller, trembler ; hésiter, fléchir"
+  },
+  {
+    "word": "rueful",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Showing regret or sorrow, often in a slightly humorous way.",
+    "examples": [
+      "He gave a *rueful* smile and admitted he had been wrong.",
+      "\"I should have listened to you,\" she said with a *rueful* laugh."
+    ],
+    "register": "courant",
+    "translation": "contrit, piteux, plein de regret"
+  },
+  {
+    "word": "fret",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To be visibly and continuously worried or anxious.",
+    "examples": [
+      "Don't *fret* — we have plenty of time.",
+      "She *frets* about her exams for weeks beforehand."
+    ],
+    "register": "courant",
+    "translation": "se tracasser, se faire du souci"
+  },
+  {
+    "word": "wry",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Showing dry, slightly mocking humour; (of a face) twisted in amused disappointment.",
+    "examples": [
+      "She made a *wry* comment about the quality of the hotel coffee.",
+      "He looked at the bill with a *wry* smile."
+    ],
+    "register": "courant",
+    "translation": "ironique, narquois, pince-sans-rire"
+  },
+  {
+    "word": "brood",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To think for a long time about things that make you sad, angry or worried.",
+    "examples": [
+      "He sat *brooding* over the insult all evening.",
+      "There is no point *brooding* about what might have been."
+    ],
+    "register": "courant",
+    "translation": "ruminer, broyer du noir"
+  },
+  {
+    "word": "smug",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Too pleased with yourself or with what you have achieved.",
+    "examples": [
+      "He had a *smug* look on his face after winning the argument.",
+      "I can't stand her *smug* little remarks about how well her children are doing."
+    ],
+    "register": "courant",
+    "translation": "suffisant, content de soi"
+  },
+  {
+    "word": "glib",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Speaking or spoken easily and smoothly, but without sincerity or real thought.",
+    "examples": [
+      "The minister gave a *glib* answer that explained nothing.",
+      "He is a *glib* salesman who could sell sand in the desert."
+    ],
+    "register": "courant",
+    "translation": "désinvolte, spécieux, qui a du bagou"
+  },
+  {
+    "word": "gloat",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To show unpleasant satisfaction at your own success or someone else's failure.",
+    "examples": [
+      "She couldn't resist *gloating* over her rival's defeat.",
+      "I don't want to *gloat*, but I did warn you."
+    ],
+    "register": "courant",
+    "translation": "jubiler, se réjouir méchamment"
+  },
+  {
+    "word": "gruff",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Rough and unfriendly in manner or voice, though not necessarily unkind.",
+    "examples": [
+      "Beneath his *gruff* manner he is a kind man.",
+      "\"Sit down,\" said a *gruff* voice from behind the desk."
+    ],
+    "register": "courant",
+    "translation": "bourru, brusque"
+  },
+  {
+    "word": "scoff",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To speak about something with mocking contempt.",
+    "examples": [
+      "Experts *scoffed* at the idea when it was first proposed.",
+      "\"You, a chef?\" he *scoffed*."
+    ],
+    "register": "courant",
+    "translation": "se moquer, railler, ricaner"
+  },
+  {
+    "word": "fickle",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Changing often and unpredictably, especially in loyalties or tastes.",
+    "examples": [
+      "Fashion is *fickle*: what sells this year is forgotten the next.",
+      "The weather here is *fickle*, so bring a raincoat."
+    ],
+    "register": "courant",
+    "translation": "inconstant, volage, capricieux"
+  },
+  {
+    "word": "dogged",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Showing stubborn determination in spite of difficulties.",
+    "examples": [
+      "Her *dogged* persistence finally got her an interview.",
+      "Through sheer *dogged* effort he finished the marathon."
+    ],
+    "register": "courant",
+    "translation": "tenace, obstiné, opiniâtre"
+  },
+  {
+    "word": "glower",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To look at someone in an angry, sullen way.",
+    "examples": [
+      "He *glowered* at the waiter who had spilled the wine.",
+      "She sat *glowering* in the corner, refusing to speak."
+    ],
+    "register": "courant",
+    "translation": "lancer un regard noir, fusiller du regard"
+  },
+  {
+    "word": "stalwart",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Loyal, reliable and hard-working, especially over a long time.",
+    "examples": [
+      "She has been a *stalwart* supporter of the club for forty years.",
+      "He remained *stalwart* in his defence of his old friend."
+    ],
+    "register": "courant",
+    "translation": "fidèle, indéfectible, solide"
+  },
+  {
+    "word": "smoulder",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To burn slowly with smoke but no flame; to feel strong emotion without showing it openly.",
+    "examples": [
+      "The bonfire was still *smouldering* the next morning.",
+      "Resentment *smouldered* between the two families for years."
+    ],
+    "register": "courant",
+    "translation": "couver, se consumer lentement"
+  },
+  {
+    "word": "nimble",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Quick and light in movement or in thought.",
+    "examples": [
+      "Her *nimble* fingers flew across the keyboard.",
+      "You need a *nimble* mind to keep up with him in a debate."
+    ],
+    "register": "courant",
+    "translation": "agile, leste, vif"
+  },
+  {
+    "word": "swelter",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To be uncomfortably hot.",
+    "examples": [
+      "Commuters *sweltered* in the packed underground.",
+      "We were *sweltering* in our winter coats."
+    ],
+    "register": "courant",
+    "translation": "étouffer de chaleur"
+  },
+  {
+    "word": "lanky",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Tall and thin, with long limbs and slightly awkward movements.",
+    "examples": [
+      "A *lanky* teenager unfolded himself from the back seat.",
+      "He was a *lanky* man who had to stoop under every doorway."
+    ],
+    "register": "courant",
+    "translation": "dégingandé, grand et maigre"
+  },
+  {
+    "word": "burly",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "(Of a person) big, strong and heavily built.",
+    "examples": [
+      "Two *burly* bouncers stood at the door of the club.",
+      "A *burly* farmer lifted the sack as if it weighed nothing."
+    ],
+    "register": "courant",
+    "translation": "costaud, baraqué, de forte carrure"
+  },
+  {
+    "word": "shun",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To avoid someone or something deliberately and consistently.",
+    "examples": [
+      "After the scandal she was *shunned* by her former friends.",
+      "He *shuns* publicity and rarely gives interviews."
+    ],
+    "register": "courant",
+    "translation": "fuir, éviter, bouder"
+  },
+  {
+    "word": "winsome",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Attractive or charming in a fresh, innocent way.",
+    "examples": [
+      "The child gave a *winsome* smile and was instantly forgiven.",
+      "The film relies too heavily on its *winsome* heroine."
+    ],
+    "register": "soutenu",
+    "translation": "charmant, engageant, séduisant"
+  },
+  {
+    "word": "shirk",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To avoid work or a duty that you ought to do.",
+    "examples": [
+      "He never *shirks* his share of the housework.",
+      "You can't *shirk* your responsibilities for ever."
+    ],
+    "register": "courant",
+    "translation": "se dérober à, esquiver, tirer au flanc"
+  },
+  {
+    "word": "forlorn",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Sad and lonely, as if abandoned; (of a hope) unlikely to succeed.",
+    "examples": [
+      "A *forlorn* little dog was waiting outside the shop in the rain.",
+      "They searched all night in the *forlorn* hope of finding survivors."
+    ],
+    "register": "courant",
+    "translation": "délaissé, triste et seul ; (espoir) vain"
+  },
+  {
+    "word": "cower",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To crouch or shrink back in fear.",
+    "examples": [
+      "The dog *cowered* under the table during the storm.",
+      "They *cowered* in the doorway as the shots rang out."
+    ],
+    "register": "courant",
+    "translation": "se recroqueviller de peur, se tapir"
+  },
+  {
+    "word": "baleful",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Threatening harm; full of menace or ill will.",
+    "examples": [
+      "The cat gave me a *baleful* stare from the top of the wardrobe.",
+      "The scandal had a *baleful* influence on the whole party."
+    ],
+    "register": "soutenu",
+    "translation": "menaçant, mauvais, funeste"
+  },
+  {
+    "word": "loath",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Unwilling or reluctant to do something.",
+    "examples": [
+      "I am *loath* to interfere, but someone has to say something.",
+      "She was *loath* to leave the warm kitchen."
+    ],
+    "register": "soutenu",
+    "translation": "peu disposé à, réticent à"
+  },
+  {
+    "word": "thwart",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To prevent someone from doing what they want, or a plan from succeeding.",
+    "examples": [
+      "The police *thwarted* an attempt to rob the bank.",
+      "Her ambitions were *thwarted* at every turn."
+    ],
+    "register": "courant",
+    "translation": "contrecarrer, déjouer, faire échouer"
+  },
+  {
+    "word": "irksome",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Annoying and tiresome.",
+    "examples": [
+      "Filling in the same form every month is an *irksome* chore.",
+      "He found the constant interruptions deeply *irksome*."
+    ],
+    "register": "courant",
+    "translation": "agaçant, fastidieux, pénible"
+  },
+  {
+    "word": "hoodwink",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To trick or deceive someone.",
+    "examples": [
+      "Thousands of investors were *hoodwinked* into buying worthless shares.",
+      "Don't let him *hoodwink* you with his charm."
+    ],
+    "register": "courant",
+    "translation": "berner, duper, embobiner"
+  },
+  {
+    "word": "fulsome",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "(Of praise, thanks or apologies) excessive to the point of sounding insincere.",
+    "examples": [
+      "The chairman introduced her with *fulsome* praise that made her blush.",
+      "He was *fulsome* in his apologies, but nobody believed him."
+    ],
+    "register": "soutenu",
+    "translation": "excessif, outré, dithyrambique"
+  },
+  {
+    "word": "sheepish",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Embarrassed because you have done something silly or wrong.",
+    "examples": [
+      "He came back with a *sheepish* grin, having locked the keys in the car.",
+      "She looked *sheepish* when I caught her finishing the cake."
+    ],
+    "register": "courant",
+    "translation": "penaud, confus"
+  },
+  {
+    "word": "bemoan",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To complain or express sadness about something.",
+    "examples": [
+      "Farmers *bemoan* the lack of rain every summer.",
+      "He is always *bemoaning* the decline of good manners."
+    ],
+    "register": "soutenu",
+    "translation": "déplorer, se lamenter sur"
+  },
+  {
+    "word": "mawkish",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Sentimental in an exaggerated, embarrassing way.",
+    "examples": [
+      "The film's ending is *mawkish* and far too long.",
+      "He wrote her a *mawkish* poem about eternal love."
+    ],
+    "register": "courant",
+    "translation": "mièvre, larmoyant, à l'eau de rose"
+  },
+  {
+    "word": "belittle",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To make someone or something seem unimportant.",
+    "examples": [
+      "He *belittles* her achievements in front of their friends.",
+      "I don't want to *belittle* the effort they made."
+    ],
+    "register": "courant",
+    "translation": "rabaisser, dénigrer, minimiser"
+  },
+  {
+    "word": "sluggish",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Slow-moving, slow to react, lacking energy.",
+    "examples": [
+      "I always feel *sluggish* after a heavy lunch.",
+      "Sales have been *sluggish* since the summer."
+    ],
+    "register": "courant",
+    "translation": "mou, lent, léthargique ; (marché) atone"
+  },
+  {
+    "word": "forsake",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To abandon someone or something; to give something up.",
+    "examples": [
+      "He *forsook* a career in law to become a painter.",
+      "She felt that all her friends had *forsaken* her."
+    ],
+    "register": "soutenu",
+    "translation": "abandonner, délaisser, renoncer à"
+  },
+  {
+    "word": "standoffish",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Distant and cold in manner; unfriendly.",
+    "examples": [
+      "I thought she was *standoffish* at first, but she is just shy.",
+      "The locals can seem *standoffish* until they get to know you."
+    ],
+    "register": "courant",
+    "translation": "distant, froid, réservé"
+  },
+  {
+    "word": "bleary",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "(Of eyes or a person) tired, unfocused and unable to see clearly.",
+    "examples": [
+      "He peered at the alarm clock with *bleary* eyes.",
+      "We stumbled off the night flight, *bleary* and unwashed."
+    ],
+    "register": "courant",
+    "translation": "aux yeux troubles, embrumé de fatigue"
+  },
+  {
+    "word": "waylay",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To stop someone who is on their way somewhere, in order to talk to or attack them.",
+    "examples": [
+      "I was *waylaid* by a neighbour on my way to the car.",
+      "Reporters were waiting to *waylay* her outside the court."
+    ],
+    "register": "courant",
+    "translation": "intercepter, accoster, attaquer par surprise"
+  },
+  {
+    "word": "dank",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Unpleasantly damp and cold.",
+    "examples": [
+      "They kept the wine in a *dank* cellar that smelled of mould.",
+      "The tunnel was dark and *dank*."
+    ],
+    "register": "courant",
+    "translation": "humide et froid"
+  },
+  {
+    "word": "upbraid",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To criticise or scold someone severely.",
+    "examples": [
+      "She *upbraided* him for arriving late yet again.",
+      "The coach *upbraided* the team for their lazy performance."
+    ],
+    "register": "soutenu",
+    "translation": "réprimander, morigéner, tancer"
+  },
+  {
+    "word": "clammy",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Unpleasantly damp and sticky to the touch.",
+    "examples": [
+      "His hands were cold and *clammy* with nerves.",
+      "The *clammy* air of the cave made her shiver."
+    ],
+    "register": "courant",
+    "translation": "moite, froid et humide"
+  },
+  {
+    "word": "goad",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To provoke or annoy someone until they react.",
+    "examples": [
+      "He was *goaded* into losing his temper.",
+      "The older boys kept *goading* him to jump."
+    ],
+    "register": "courant",
+    "translation": "aiguillonner, provoquer, pousser à bout"
+  },
+  {
+    "word": "sodden",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Soaked through with liquid.",
+    "examples": [
+      "We took off our *sodden* shoes at the door.",
+      "The pitch was so *sodden* that the match was called off."
+    ],
+    "register": "courant",
+    "translation": "trempé, détrempé"
+  },
+  {
+    "word": "gnarled",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Twisted, rough and knotty, especially with age.",
+    "examples": [
+      "An old man with *gnarled* hands was mending a net.",
+      "The path winds between *gnarled* olive trees."
+    ],
+    "register": "courant",
+    "translation": "noueux, tordu"
+  },
+  {
+    "word": "fathom",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To understand something difficult after much thought.",
+    "examples": [
+      "I can't *fathom* why she turned the job down.",
+      "It took me years to *fathom* what he had meant."
+    ],
+    "register": "courant",
+    "translation": "comprendre, sonder, percer"
+  },
+  {
+    "word": "threadbare",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "(Of cloth) thin and worn with age; (of an excuse or argument) weak from overuse.",
+    "examples": [
+      "He wore the same *threadbare* jacket every winter.",
+      "That excuse is getting rather *threadbare*."
+    ],
+    "register": "courant",
+    "translation": "élimé, râpé ; usé, éculé"
+  },
+  {
+    "word": "wrest",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To take something from someone with effort or force.",
+    "examples": [
+      "He *wrested* the knife from his attacker's hand.",
+      "The rebels are trying to *wrest* control of the capital from the army."
+    ],
+    "register": "courant",
+    "translation": "arracher (de haute lutte)"
+  },
+  {
+    "word": "sallow",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "(Of skin) of an unhealthy pale yellowish colour.",
+    "examples": [
+      "Months of night shifts had left him thin and *sallow*.",
+      "Her *sallow* skin looked almost grey under the strip lights."
+    ],
+    "register": "courant",
+    "translation": "cireux, jaunâtre"
+  },
+  {
+    "word": "wan",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Pale and looking ill or tired; weak, faint.",
+    "examples": [
+      "She gave a *wan* smile and said she was fine.",
+      "He looked *wan* and thin after his illness."
+    ],
+    "register": "soutenu",
+    "translation": "blême, pâle, blafard"
+  },
+  {
+    "word": "haggle",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To argue over the price of something.",
+    "examples": [
+      "We *haggled* over the price of the rug for an hour.",
+      "In this market you are expected to *haggle*."
+    ],
+    "register": "courant",
+    "translation": "marchander"
+  },
+  {
+    "word": "wizened",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Small, shrivelled and wrinkled with age.",
+    "examples": [
+      "A *wizened* old woman was selling herbs at the gate.",
+      "He picked a *wizened* apple from the bottom of the bowl."
+    ],
+    "register": "courant",
+    "translation": "ratatiné, flétri, parcheminé"
+  },
+  {
+    "word": "dabble",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To take part in an activity in a casual, not very serious, way.",
+    "examples": [
+      "She *dabbles* in watercolours at weekends.",
+      "He *dabbled* in politics before going into business."
+    ],
+    "register": "courant",
+    "translation": "toucher à, pratiquer en dilettante"
+  },
+  {
+    "word": "bereft",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Deprived of something; sad and lonely after a loss.",
+    "examples": [
+      "The speech was completely *bereft* of new ideas.",
+      "She felt utterly *bereft* when her children left home."
+    ],
+    "register": "soutenu",
+    "translation": "privé de, dépourvu de ; désemparé"
+  },
+  {
+    "word": "delve",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To search deeply inside something; to investigate thoroughly.",
+    "examples": [
+      "She *delved* into her bag and pulled out a crumpled map.",
+      "The book *delves* into the family's hidden past."
+    ],
+    "register": "courant",
+    "translation": "fouiller, creuser, se plonger dans"
+  },
+  {
+    "word": "bedraggled",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Wet, dirty and untidy.",
+    "examples": [
+      "A *bedraggled* cat was sheltering under the car.",
+      "We arrived *bedraggled* and exhausted after hours in the storm."
+    ],
+    "register": "courant",
+    "translation": "dépenaillé, trempé et crotté"
+  },
+  {
+    "word": "aghast",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Filled with horror or shock.",
+    "examples": [
+      "She was *aghast* at the size of the bill.",
+      "The audience looked on, *aghast*, as the stage collapsed."
+    ],
+    "register": "courant",
+    "translation": "atterré, épouvanté, horrifié"
+  },
+  {
+    "word": "ransack",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To search a place violently, leaving it in disorder, often in order to steal.",
+    "examples": [
+      "Burglars had *ransacked* every room in the house.",
+      "I *ransacked* my desk looking for the passport."
+    ],
+    "register": "courant",
+    "translation": "saccager, fouiller de fond en comble"
+  },
+  {
+    "word": "awry",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Away from the planned or expected course; out of position, crooked.",
+    "examples": [
+      "Our holiday plans went *awry* when the airline went bust.",
+      "His tie was *awry* and his hair uncombed."
+    ],
+    "register": "courant",
+    "translation": "de travers ; (go awry) mal tourner"
+  },
+  {
+    "word": "whet",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To sharpen (a blade); to stimulate (an appetite or interest).",
+    "examples": [
+      "The smell from the kitchen *whetted* my appetite.",
+      "The trailer has *whetted* everyone's curiosity."
+    ],
+    "register": "courant",
+    "translation": "aiguiser"
+  },
+  {
+    "word": "aloof",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Not friendly or willing to take part; distant.",
+    "examples": [
+      "He stayed *aloof* from office gossip.",
+      "Some found her cold and *aloof*; others, merely reserved."
+    ],
+    "register": "courant",
+    "translation": "distant, hautain, à l'écart"
+  },
+  {
+    "word": "unwieldy",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Difficult to move or manage because of size, shape or complexity.",
+    "examples": [
+      "The sofa was too *unwieldy* to carry up the stairs.",
+      "The committee has grown into a large, *unwieldy* body."
+    ],
+    "register": "courant",
+    "translation": "encombrant, peu maniable ; pesant"
+  },
+  {
+    "word": "wreak",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To cause great damage or harm; to inflict (revenge).",
+    "examples": [
+      "The storm *wreaked* havoc along the coast.",
+      "He swore to *wreak* revenge on those who had betrayed him."
+    ],
+    "register": "courant",
+    "translation": "causer (des ravages) ; assouvir (une vengeance)"
+  },
+  {
+    "word": "ungainly",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Moving in a clumsy, ungraceful way.",
+    "examples": [
+      "On land, the seal is slow and *ungainly*.",
+      "He ran with an *ungainly*, loping stride."
+    ],
+    "register": "courant",
+    "translation": "gauche, disgracieux, pataud"
+  },
+  {
+    "word": "hanker",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To have a strong, persistent desire for something.",
+    "examples": [
+      "After a month abroad I was *hankering* after a proper cup of tea.",
+      "He still *hankers* for the simplicity of village life."
+    ],
+    "register": "courant",
+    "translation": "avoir très envie de, soupirer après"
+  },
+  {
+    "word": "seedy",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Dirty, shabby and often connected with dishonest or immoral activities.",
+    "examples": [
+      "They met in a *seedy* bar near the docks.",
+      "He ended up in a *seedy* hotel with stained carpets."
+    ],
+    "register": "familier",
+    "translation": "miteux, louche, minable"
+  },
+  {
+    "word": "wallow",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To roll about in mud or water; to indulge in an emotion or situation.",
+    "examples": [
+      "Hippos *wallow* in the mud to keep cool.",
+      "Stop *wallowing* in self-pity and do something about it."
+    ],
+    "register": "courant",
+    "translation": "se vautrer ; se complaire dans"
+  },
+  {
+    "word": "hidebound",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Unwilling to change because of tradition or convention.",
+    "examples": [
+      "The profession is too *hidebound* to accept such a reform.",
+      "He dismissed the board as a group of *hidebound* old men."
+    ],
+    "register": "courant",
+    "translation": "sclérosé, borné, prisonnier des traditions"
+  },
+  {
+    "word": "downtrodden",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Treated badly by those in power and lacking the strength to resist.",
+    "examples": [
+      "The novel gives a voice to the *downtrodden* workers of the mills.",
+      "She was tired of playing the *downtrodden* wife."
+    ],
+    "register": "courant",
+    "translation": "opprimé, écrasé, bafoué"
+  },
+  {
+    "word": "bask",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To lie or relax in pleasant warmth; to enjoy approval or attention.",
+    "examples": [
+      "Lizards were *basking* on the warm stones.",
+      "He *basked* in the admiration of his colleagues."
+    ],
+    "register": "courant",
+    "translation": "se prélasser, lézarder ; savourer"
+  },
+  {
+    "word": "wayward",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Difficult to control; following a wilful or unpredictable course.",
+    "examples": [
+      "She spent years worrying about her *wayward* son.",
+      "He brushed a *wayward* lock of hair out of his eyes."
+    ],
+    "register": "courant",
+    "translation": "rebelle, indocile, capricieux"
+  },
+  {
+    "word": "fumble",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To use the hands clumsily while doing or looking for something.",
+    "examples": [
+      "She *fumbled* in her pocket for the keys.",
+      "He *fumbled* with the buttons of his coat."
+    ],
+    "register": "courant",
+    "translation": "tâtonner, farfouiller, s'empêtrer"
+  },
+  {
+    "word": "untoward",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Unexpected and unwelcome; improper.",
+    "examples": [
+      "If nothing *untoward* happens, we should arrive by six.",
+      "He swore that nothing *untoward* had taken place between them."
+    ],
+    "register": "soutenu",
+    "translation": "fâcheux, malencontreux ; inconvenant"
+  },
+  {
+    "word": "wheedle",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To persuade someone, or obtain something, by flattery and coaxing.",
+    "examples": [
+      "She *wheedled* her father into lending her the car.",
+      "He managed to *wheedle* an invitation out of them."
+    ],
+    "register": "courant",
+    "translation": "enjôler, obtenir par des cajoleries"
+  },
+  {
+    "word": "forthright",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Direct and honest in manner and speech.",
+    "examples": [
+      "She was *forthright* in her criticism of the plan.",
+      "I admire his *forthright* way of dealing with complaints."
+    ],
+    "register": "courant",
+    "translation": "franc, direct, sans détour"
+  },
+  {
+    "word": "headstrong",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Determined to do things your own way, refusing advice.",
+    "examples": [
+      "She was a *headstrong* child who hated being told what to do.",
+      "He is too *headstrong* to listen to his doctors."
+    ],
+    "register": "courant",
+    "translation": "têtu, entêté, volontaire"
+  },
+  {
+    "word": "prattle",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To talk at length about trivial things.",
+    "examples": [
+      "He *prattled* on about his holiday for an hour.",
+      "The children *prattled* happily in the back seat."
+    ],
+    "register": "courant",
+    "translation": "jacasser, babiller, papoter"
+  },
+  {
+    "word": "blithe",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Cheerfully careless; showing a casual indifference that seems improper.",
+    "examples": [
+      "He spoke with a *blithe* disregard for the facts.",
+      "She carried on in *blithe* ignorance of the trouble she had caused."
+    ],
+    "register": "soutenu",
+    "translation": "insouciant, désinvolte ; allègre"
+  },
+  {
+    "word": "seethe",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To be filled with intense but unexpressed anger; (of a place) to be crowded and full of movement.",
+    "examples": [
+      "She was *seething* with rage but said nothing.",
+      "The square *seethed* with tourists."
+    ],
+    "register": "courant",
+    "translation": "bouillir de colère ; grouiller"
+  },
+  {
+    "word": "heedless",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Paying no attention; careless of consequences.",
+    "examples": [
+      "*Heedless* of the danger, he ran back into the building.",
+      "She drove on, *heedless* of the warning signs."
+    ],
+    "register": "courant",
+    "translation": "insouciant de, sans se soucier de"
+  },
+  {
+    "word": "slapdash",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Done, or doing things, too quickly and carelessly.",
+    "examples": [
+      "The painting job was *slapdash*, with drips all over the floor.",
+      "He has a *slapdash* approach to paperwork."
+    ],
+    "register": "familier",
+    "translation": "bâclé, fait à la va-vite, brouillon"
+  },
+  {
+    "word": "gnaw",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To bite or chew at something persistently; to cause constant worry.",
+    "examples": [
+      "The dog was *gnawing* a bone under the table.",
+      "Guilt *gnawed* at him for weeks."
+    ],
+    "register": "courant",
+    "translation": "ronger"
+  },
+  {
+    "word": "beholden",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Owing a duty or thanks to someone in return for a favour.",
+    "examples": [
+      "I don't want to be *beholden* to anyone, so I'll pay my own way.",
+      "A newspaper should not be *beholden* to its advertisers."
+    ],
+    "register": "soutenu",
+    "translation": "redevable à, l'obligé de"
+  },
+  {
+    "word": "wane",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To become gradually weaker or less; (of the moon) to appear smaller each night.",
+    "examples": [
+      "Public interest in the trial soon *waned*.",
+      "His influence has been *waning* since the election."
+    ],
+    "register": "courant",
+    "translation": "décliner, décroître, faiblir"
+  },
+  {
+    "word": "smitten",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Suddenly and strongly in love with, or attracted to, someone or something.",
+    "examples": [
+      "He was *smitten* with her from the moment they met.",
+      "One visit to Lisbon and I was completely *smitten*."
+    ],
+    "register": "courant",
+    "translation": "épris, sous le charme, conquis"
+  },
+  {
+    "word": "huddle",
+    "lang": "en",
+    "pos": "verb",
+    "definition": "To crowd closely together, or curl up the body, for warmth or protection.",
+    "examples": [
+      "We *huddled* around the fire to keep warm.",
+      "She sat *huddled* in a blanket on the sofa."
+    ],
+    "register": "courant",
+    "translation": "se blottir, se serrer les uns contre les autres"
+  },
+  {
+    "word": "tight-lipped",
+    "lang": "en",
+    "pos": "adj.",
+    "definition": "Unwilling to say anything about something; with lips pressed together in anger.",
+    "examples": [
+      "The company remains *tight-lipped* about its plans.",
+      "She gave a *tight-lipped* nod and left the room."
+    ],
+    "register": "courant",
+    "translation": "peu loquace, muet ; pincé"
+  }
+]
